@@ -1,0 +1,6 @@
+{
+  "name": "Osteo3D - Interactive Skeletal Anatomy & Disarticulation Lab",
+  "description": "Explore, disarticulate, rotate, and master human skeletal anatomy in real-time 3D with interactive exploded views, step-by-step beginner learning modules, and precision osteology quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
